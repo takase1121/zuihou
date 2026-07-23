@@ -1,5 +1,8 @@
 # zuihou
 
+> [!IMPORTANT]
+> This project is archived. You must not use it for anything.
+
 Minimal but flexible Lavalink API wrapper.
 
 
